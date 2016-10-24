@@ -51,7 +51,7 @@ For most accurate results:
 
 - Disable hyperthreading a.k.a. hardware multithreading
 	- Linux instructions: [http://bench.cr.yp.to/supercop.html](http://bench.cr.yp.to/supercop.html)
-	- Mac OS X instructions: Instruments → Preferences → CPUs → uncheck \"Hardware Multi-Threading\" ([http://forums.macrumors.com/showthread.php?t=1484684](http://forums.macrumors.com/showthread.php?t=1484684))
+	- Mac OS X instructions: Instruments → Preferences → CPUs → uncheck "Hardware Multi-Threading" ([http://forums.macrumors.com/showthread.php?t=1484684](http://forums.macrumors.com/showthread.php?t=1484684))
 - Disable TurboBoost
 	- Linux instructions: [http://bench.cr.yp.to/supercop.html](http://bench.cr.yp.to/supercop.html)
 	- Max OS X: use [http://www.rugarciap.com/turbo-boost-switcher-for-os-x/](http://www.rugarciap.com/turbo-boost-switcher-for-os-x/)
