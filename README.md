@@ -15,7 +15,7 @@ One potential application of DAPS is in public key infrastructures (PKIs).  Cert
 This software
 -------------
 
-This software implements three new double-authentication-preventing signatures schemes (H2[GQ], ID2[GQ], and H2[MR]) as well as the original DAPS scheme of Poettering and Stebila (PS).  The H2[GQ] and ID2[GQ] DAPS schemes are constructed from the GQ identification scheme; the H2[MR] DAPS scheme is based on the MR identification scheme (with minor changes).  Details on the constructions can be found in the paper.
+This software implements three new double-authentication-preventing signatures schemes (H2[GQ], ID2[GQ], and H2[MR]) as well as the original DAPS scheme of Poettering and Stebila (PS).  The H2[GQ] and ID2[GQ] DAPS schemes are constructed from the GQ identification scheme; the H2[MR] DAPS scheme is based on the MR identification scheme (with minor changes).  Details on the constructions can be found in the [paper](https://github.com/dstebila/daps/blob/master/paper.pdf).
 
 Building
 --------
