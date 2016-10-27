@@ -4,8 +4,8 @@
  * Based on the paper:
  *     Mihir Bellare, Bertram Poettering, and Douglas Stebila.
  *     Deterring Certificate Subversion: Efficient Double-Authentication-Preventing Signatures.
- *     IACR Cryptology ePrint Archive, Report 2016/XXXX. October, 2016.
- *     https://eprint.iacr.org/2016/XXXX
+ *     IACR Cryptology ePrint Archive, Report 2016/1016. October, 2016.
+ *     https://eprint.iacr.org/2016/1016
  *
  * Software originally developed by Douglas Stebila.
  *

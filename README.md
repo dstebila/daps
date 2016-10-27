@@ -3,7 +3,7 @@ Double-authentication-preventing signatures
 
 This software implements the double-authentication-preventing signature schemes H2[GQ], ID2[GQ], and H2[MR] from the following paper:
 
-- Mihir Bellare, Bertram Poettering, and Douglas Stebila. **Deterring Certificate Subversion: Efficient Double-Authentication-Preventing Signatures**. *IACR Cryptology ePrint Archive*, Report 2016/XXXX. October, 2016.  [https://eprint.iacr.org/2016/XXXX](https://eprint.iacr.org/2016/XXXX).
+- Mihir Bellare, Bertram Poettering, and Douglas Stebila. **Deterring Certificate Subversion: Efficient Double-Authentication-Preventing Signatures**. *IACR Cryptology ePrint Archive*, Report 2016/1016. October, 2016.  [https://eprint.iacr.org/2016/1016](https://eprint.iacr.org/2016/1016).
 
 What are double-authentication-preventing signatures?
 -----------------------------------------------------
